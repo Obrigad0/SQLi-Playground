@@ -1,21 +1,15 @@
-Homework Sicurezza
+The directory contains:
+ - The project report
+ - The src folder that includes the project's PHP files
+ - The database folder that contains the MySQL database image
 
-Flavio Corsetti
-Matricola 1997818
-
-
-La directory contiene:
- - La relazione del progetto
- - La cartella src che include i file PHP del progetto
- - La cartella database che contiene l'immagine del database MySQL
-
-Il progetto è stato sviluppato e testato utilizzando XAMPP (con la verione piu recente). 
-Il suo funzionamento è stato verificato sui seguenti sistemi operativi:
+The project was developed and tested using XAMPP (with the latest version). 
+Its operation has been verified on the following operating systems:
  - Windows 10
- - macOS con processore M2
+ - macOS with M2 processor
  - Ubuntu
 
-Istruzioni per XAMPP:
-	- inserire la cartella src nella cartella htdocs in \xampp\htdocs
-	- In phpMyAdmin creare il database "sqli" ed importare all'interno il file sqli.sql che si trova nella dir "database" del progetto
-	- collegarsi a localhost/src/login.php
+Instructions for XAMPP:
+	- put the src folder in the htdocs folder in \xampp\htdocs
+	- In phpMyAdmin create the "sqli" database and import the sqli.sql file located in the "database" directory of the project
+	- connect to localhost/src/login.php
